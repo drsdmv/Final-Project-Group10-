@@ -1,4 +1,4 @@
-# Final-Project-Group7
+# Final-Project-Group10
 ML Final Project
 
 Commit Breakdown: <br /> 
